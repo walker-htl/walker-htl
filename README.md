@@ -1,6 +1,6 @@
 ### My profile
-![](https://img.shields.io/badge/day%20📅-6-blue)
-![](https://img.shields.io/badge/stars%20⭐-12-yellow)
+![](https://img.shields.io/badge/day%13📅-12-blue)
+![](https://img.shields.io/badge/stars%20⭐-6-yellow)
 
 <!--
 **walker-htl/walker-htl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
