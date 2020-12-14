@@ -1,6 +1,6 @@
-### My profile
-![](https://img.shields.io/badge/day%13📅-12-blue)
-![](https://img.shields.io/badge/stars%20⭐-6-yellow)
+### walker alias Walter Kerber
+
+![](https://img.shields.io/badge/stars%20⭐-8-yellow)   in https://adventofcode.com/2020
 
 <!--
 **walker-htl/walker-htl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
