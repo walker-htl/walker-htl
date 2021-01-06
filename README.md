@@ -1,9 +1,8 @@
 ### walker alias Walter Kerber
 
-![](https://img.shields.io/badge/stars%20⭐-20-yellow)   in https://adventofcode.com/2020
+![](https://img.shields.io/badge/stars%20⭐-23-yellow)   in https://adventofcode.com/2020
 
-<!--
-**walker-htl/walker-htl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**walker-htl/walker-htl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
